@@ -35,7 +35,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: liuxieric123
+    disqus: simplelotus
     # duoshuo: 
     
 # Social
